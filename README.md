@@ -40,7 +40,7 @@ Privately, I explore game development and engine design:
 I enjoy learning across domains — from backend systems and concurrency to AI, simulations, and game mechanics — and connecting ideas between them into coherent systems.
 
 ---
-🎓 Computer Science @ University of Wrocław (UWr)
-📍 Poland  
-💼 Software Engineer @ Netflix 
+🎓 Computer Science @ University of Wrocław (UWr) \
+📍 Poland  \
+💼 Software Engineer @ Netflix \
 📫 dominik.budzki@gmail.com
