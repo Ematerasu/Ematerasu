@@ -1,4 +1,4 @@
-## Hi, I'm Dominik (or Ematerasu)
+## Dominik (Ematerasu)
 
 Software Engineer focused on building game engines, AI agents, and simulation-heavy systems.
 Currently working on cross-language AI infrastructure and game AI research.
