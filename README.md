@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi, I'm Dominik (or Ematerasu)
 
-<!--
-**Ematerasu/Ematerasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building game engines, AI agents, and simulation-heavy systems.
+Currently working on cross-language AI infrastructure and game AI research.
 
-Here are some ideas to get you started:
+## Flagship Project: Scripts of Tribute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full forward-model Tales of Tribute environment with game engine and AI integration designed for:
+- AI research and self-play
+- cross-language bot integration (C#, Python, gRPC)
+- large-scale simulation & logging
+
+Repos:
+- [Core Engine (C#)](https://github.com/ScriptsOfTribute/ScriptsOfTribute-Core)
+- [GUI (Unity)](https://github.com/ScriptsOfTribute/ScriptsOfTribute-GUI-2.0)
+- [Python SDK](https://github.com/ScriptsOfTribute/ScriptsOfTribute-Python)
+
+## Other Things I Build
+### AI & Simulation
+- Reinforcement Learning agents (PPO, custom encoders)
+- Simulation & replay pipelines for ML datasets
+- Tooling for AI debugging and visualization
+- Experimental game mechanics (RTwP combat, tactical AI)
+
+### Performance & Systems
+- High-throughput simulation pipelines
+- Efficient data structures for state-heavy systems
+- Concurrency patterns for producer–consumer workloads
+
+I’m particularly interested in optimal data structures and concurrency patterns used in
+high-throughput systems and game simulations.
+
+## Game Development (Personal Projects)
+Privately, I explore game development and engine design:
+- custom game logic engines
+- AI-driven gameplay systems
+- real-time with pause (RTwP) combat mechanics
+
+## Generalist by Curiosity
+I enjoy learning across domains — from backend systems and concurrency to AI, simulations, and game mechanics — and connecting ideas between them into coherent systems.
+
+---
+🎓 Computer Science @ University of Wrocław (UWr)
+📍 Poland  
+💼 Software Engineer @ Netflix 
+📫 dominik.budzki@gmail.com
