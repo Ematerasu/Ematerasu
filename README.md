@@ -18,26 +18,22 @@ Repos:
 ## Other Things I Build
 ### AI & Simulation
 - Reinforcement Learning agents (PPO, custom encoders)
-- Simulation & replay pipelines for ML datasets
+- Simulation environments for game AI
 - Tooling for AI debugging and visualization
-- Experimental game mechanics (RTwP combat, tactical AI)
 
 ### Performance & Systems
 - High-throughput simulation pipelines
 - Efficient data structures for state-heavy systems
 - Concurrency patterns for producer–consumer workloads
 
-I’m particularly interested in optimal data structures and concurrency patterns used in
-high-throughput systems and game simulations.
-
-## Game Development (Personal Projects)
+### Game Development (Personal Projects)
 Privately, I explore game development and engine design:
 - custom game logic engines
 - AI-driven gameplay systems
 - real-time with pause (RTwP) combat mechanics
 
 ## Generalist by Curiosity
-I enjoy learning across domains — from backend systems and concurrency to AI, simulations, and game mechanics — and connecting ideas between them into coherent systems.
+I enjoy learning across domains — from backend systems and concurrency to AI, simulations, and game mechanics — and connecting them into coherent systems.
 
 ---
 🎓 Computer Science @ University of Wrocław (UWr) \
